@@ -15,7 +15,6 @@ MarkupSafe==1.0
 neo4j-driver==1.5.3
 numpy==1.14.5
 openpyxl==2.4.8
-pandas==0.23.3
 pathtools==0.1.2
 python-dateutil==2.6.1
 pytz==2017.2
@@ -27,3 +26,4 @@ urllib3==1.22
 watchdog==0.8.3
 Werkzeug==0.12.2
 xlrd==1.0.0
+pandas==0.23.3
