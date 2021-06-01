@@ -22,7 +22,7 @@ PyYAML==3.12
 reload==0.9
 scipy==1.0.0
 six==1.11.0
-urllib3==1.22
+urllib3==1.26.5
 watchdog==0.8.3
 Werkzeug==0.12.2
 xlrd==1.0.0
